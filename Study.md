@@ -6,11 +6,11 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
 ## Required Reading
 
 
-- [w3: What is a Event](https://developer.mozilla.org/en-US/docs/Web/API/Event)
+- [w3: What is an Event](https://developer.mozilla.org/en-US/docs/Web/API/Event)
 
   Read till the end of Event section, skip every section afterwards.
 
-- [W3Schools: What is a Event Listener](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
+- [W3Schools: What is an Event Listener](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
 
 
 
