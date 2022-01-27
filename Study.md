@@ -19,33 +19,33 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
 1. Why are Events required?
 
     ```
-    Please write your answer here.
+    To represent an event that takes place in the DOM.
     ```
 
 1. Name a few Events?
 
     ```
-    Please write your answer here.
+    By the user action e.g. clicking the mouse button or when an event is triggered programmatically, such as by calling the HTMLElement.click() method of an element
     ```
 
 1. How to add an Events Listener ?
 
     ```
-    Please write your answer here.
+    using the code .addEventListener(), e.g. EventTarget.addEventListener(). 
     ```
 
 1. Write JavaScript code for inline `onclick` event for a button that will display an alert "Hello" when clicked:
 
     ```js
-    /* Your Answer */
+    /* document.getElementById("myBtn").addEventListener("click", displayDate);*/
     ```
 
 1. Using a "Fist to Five", what is your comfort and clarity level?
 
     ```
-    Comfort:
+    Comfort: 5
 
-    Clarity:
+    Clarity: 5
     ```
 
 ### Response Guidelines
